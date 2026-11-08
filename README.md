@@ -2,7 +2,7 @@
 IT Support | Systems Administration | Networking
 
 ## Proyectos y Labs
-### [01. Virtualization & Networking Lab]()
+### [01. Virtualization & Networking Lab](https://github.com/alexisanunez/virtual-network-lab)
 Configuración de un entorno virtual utilizando VirtualBox, con Windows Server 2025 y clientes Windows 11.
 
 **Temas:** Virtualization · Virtual Networking · DNS · DHCP · NAT
