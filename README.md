@@ -12,7 +12,7 @@ Implementación de un dominio Windows y administración centralizada de usuarios
 
 *Active Directory · Group Policy · PowerShell · NTFS Permissions · Shared Folders*
 
-### [Endpoint Management with Action1]()
+### [Endpoint Management with Action1](https://github.com/alexisanunez/endpoint-management-action1)
 Implementación de una solución de administración remota para gestionar equipos, implementar software y ejecutar scripts.
 
 *Action1 · RMM · Software Deployment · Script Deployment · Windows Updates*
