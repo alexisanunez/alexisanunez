@@ -7,7 +7,7 @@ Configuración de un entorno virtual utilizando VirtualBox, con Windows Server 2
 
 *Virtualization · Virtual Networking · DNS · DHCP · NAT*
 
-### [02. Active Directory Administration Lab]()
+### [02. Active Directory Administration Lab](https://github.com/alexisanunez/active-directory-adm-lab)
 Implementación de un dominio Windows y administración centralizada de usuarios, grupos, políticas y recursos compartidos.
 
 *Active Directory · Group Policy · PowerShell · NTFS Permissions · Shared Folders*
