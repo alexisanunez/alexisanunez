@@ -2,17 +2,17 @@
 IT Support | Systems Administration | Networking
 
 ## Proyectos y Labs
-### [01. Virtualization & Networking Lab](https://github.com/alexisanunez/virtual-network-lab)
+### [Virtualization & Networking Lab](https://github.com/alexisanunez/virtual-network-lab)
 Configuración de un entorno virtual utilizando VirtualBox, con Windows Server 2025 y clientes Windows 11.
 
 *Virtualization · Virtual Networking · DNS · DHCP · NAT*
 
-### [02. Active Directory Administration Lab](https://github.com/alexisanunez/active-directory-adm-lab)
+### [Active Directory Administration Lab](https://github.com/alexisanunez/active-directory-adm-lab)
 Implementación de un dominio Windows y administración centralizada de usuarios, grupos, políticas y recursos compartidos.
 
 *Active Directory · Group Policy · PowerShell · NTFS Permissions · Shared Folders*
 
-### [03. Endpoint Management with Action1]()
+### [Endpoint Management with Action1]()
 Implementación de una solución de administración remota para gestionar equipos, implementar software y ejecutar scripts.
 
 *Action1 · RMM · Software Deployment · Script Deployment · Windows Updates*
