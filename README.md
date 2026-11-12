@@ -2,7 +2,7 @@
 IT Support | Systems Administration | Networking
 
 ## Proyectos y Labs
-### [Lab de Virtualización y Configuración Redes](https://github.com/alexisanunez/virtual-network-lab)
+### [Lab de Virtualización y Configuración de Redes](https://github.com/alexisanunez/virtual-network-lab)
 Configuración de un entorno virtual utilizando VirtualBox, con Windows Server 2025 y clientes Windows 11.
 
 *Virtualization · Virtual Networking · DNS · DHCP · NAT*
