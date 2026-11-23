@@ -17,6 +17,11 @@ Implementación de una solución de administración remota para gestionar equipo
 
 *Action1 · RMM · Software Deployment · Script Deployment · Windows Updates*
 
+### [[En progreso] Lab de Administración de Microsoft 365](https://github.com/alexisanunez)
+Configuración y administración de un entorno Microsoft 365, incluyendo gestión de usuarios, grupos, licencias y servicios de colaboración.
+
+*Microsoft 365 · Microsoft Entra ID · Exchange Online · SharePoint · Teams*
+
 ## Certificaciones
 
 <div>
